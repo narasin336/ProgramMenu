@@ -1,0 +1,34 @@
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\bin\Debug\ProgramMenu.exe.config
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\bin\Debug\ProgramMenu.exe
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\bin\Debug\ProgramMenu.pdb
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.csprojResolveAssemblyReference.cache
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.ProgramMenu.resources
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.Properties.Resources.resources
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.csproj.GenerateResource.Cache
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.exe
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.pdb
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.Login.resources
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.ChangePassword.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\bin\Debug\ProgramMenu.exe.config
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.exe
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\bin\Debug\ProgramMenu.exe
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\bin\Debug\ProgramMenu.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.csprojResolveAssemblyReference.cache
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.ChangePassword.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.Login.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.ProgramMenu.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.Properties.Resources.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.csproj.GenerateResource.Cache
+\\192.168.4.7\mis\SourceProgramC#\ProgramMenu_New\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.csprojAssemblyReference.cache
+D:\MyProject\ProgramMenu\ProgramMenu\bin\Debug\ProgramMenu.exe.config
+D:\MyProject\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.exe
+D:\MyProject\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.pdb
+D:\MyProject\ProgramMenu\ProgramMenu\bin\Debug\ProgramMenu.exe
+D:\MyProject\ProgramMenu\ProgramMenu\bin\Debug\ProgramMenu.pdb
+D:\MyProject\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.csprojResolveAssemblyReference.cache
+D:\MyProject\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.ChangePassword.resources
+D:\MyProject\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.Login.resources
+D:\MyProject\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.ProgramMenu.resources
+D:\MyProject\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.Properties.Resources.resources
+D:\MyProject\ProgramMenu\ProgramMenu\obj\Debug\ProgramMenu.csproj.GenerateResource.Cache
